@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "FreshInfo",
+    "desc": "FreshInfo-service",
+    "tag": "dev---2023-06-23---10-03-49---branch--quality---commit--dd88dc6---by--XYZ"
+  },
+  "deploy": {
+    "by": "cloudrun",
+    "at": "2023-03-23-10-06-30"
+  },
+  "build": {
+    "by": "cloudbuild",
+    "at": "2023-03-23-10-06-30"
+  },
+  "metadata": {
+    "BUILD_ID": "d43b945f-e586-4492-8466-57d516258280",
+    "SHORT_SHA": "dd88dc6",
+    "PROJECT_ID": "thaniyarasu-dev",
+    "LOCATION": "global",
+    "TRIGGER_NAME": "thaniyarasu-auth-dev",
+    "COMMIT_SHA": "dd88dc64863ee44932a2e43e75675021fd759b6a",
+    "REVISION_ID": "dd88dc64863ee44932a2e43e75675021fd759b6a",
+    "REPO_NAME": "github_thaniyarasu_auth",
+    "TRIGGER_BUILD_CONFIG_PATH": "ops/cloudbuild.yaml",
+    "APP": "thaniyarasu-auth",
+    "ENV": "dev"
+  }
+}
