@@ -1,6 +1,6 @@
-server:
-  servlet: 
-    context-path: /apis/auth/latest
+# server:
+#   servlet: 
+#     context-path: /apis/auth/latest
 spring:
   datasource:
     url: jdbc:mysql://${MYSQL_HOST:172.17.0.4}/auth
